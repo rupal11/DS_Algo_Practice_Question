@@ -11,20 +11,18 @@ long factorial(int n)                  // iterative
 }
 
 
-/*
-long factorial(int n)                  // recursive
+long Rfactorial(int n)                  // recursive
 {
   if(n==0)
    return 1;
   else
-   return factorial(n-1)*n;
+   return Rfactorial(n-1)*n;
 }
-*/
 
 int main() {
     int n;
     cout<<"Enter a no. : ";
     cin>>n;
-    cout<<"Factorial of "<<n<<" is "<<factorial(n);
+    cout<<"Factorial of "<<n<<" : \n 1. Using iteration :  "<<factorial(n)<<"\n 2. Using recursion : "<<Rfactorial(n);
 	return 0;
 }
