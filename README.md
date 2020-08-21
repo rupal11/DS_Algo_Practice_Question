@@ -6,4 +6,4 @@ It contains
 1. Recursion : It contains solution using both recursion and iteration.
    a Sum of n natural no.
    b Factorial
-   c Power function
+   c Exponent_function
