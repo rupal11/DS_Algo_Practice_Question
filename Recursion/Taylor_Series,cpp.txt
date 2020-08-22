@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int e(int x,int n)
+{
+    static int s=1;
+    if(n==0)
+     return 1;
+    else
+     s=1+(x/n)*s;
+    return e(x,n-1);
+}
+
+int main() {
+	int x,n;
+	cout<<"e raised to power x\n";
+	cout<<"Enter the power of e : ";
+	cin>>x;
+	cout<<"Enter the number of terms : ";
+	cin>>n;
+	cout<<"\nValue of e raised to power "<<x<<" till "<<n<<" terms is : "<<e(x,n);
+	return 0;
+}
