@@ -7,3 +7,4 @@ It contains
    a Sum of n natural no.
    b Factorial
    c Exponent_function
+   d Taylor_Series
