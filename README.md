@@ -8,3 +8,4 @@ It contains
    b Factorial
    c Exponent_function
    d Taylor_Series
+   e Fibonacci_Series
