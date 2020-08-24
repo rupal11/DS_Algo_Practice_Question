@@ -9,3 +9,4 @@ It contains
    c Exponent_function
    d Taylor_Series
    e Fibonacci_Series
+   f Combination Formula
