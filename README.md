@@ -3,7 +3,7 @@
 This repository will contain practise question of data structure and alogrithm with their solution.
 It contains
 
-1. Recursion : It contains solution using both recursion and iteration.
+1. Recursion : 
    a Sum of n natural no.
    b Factorial
    c Exponent_function
@@ -12,3 +12,4 @@ It contains
    f Combination Formula
    g Tower_of_Hanoi
 
+2. Array
