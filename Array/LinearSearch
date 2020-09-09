@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+
+int LinearSearch(int *A,int n,int key)
+{
+    int i;
+    for(i=0;i<n;++i)
+    {
+        if(key==A[i])
+         return i;
+    }
+    return -1;
+}
+
+int main() {
+    int i,k,n,s;
+	cout<<"Enter the value of n :";
+	cin>>n;
+	int A[n];
+	for(i=0;i<n;++i)
+	{
+    	 cout<<"Enter the value : ";
+    	 cin>>A[i];
+    }
+    cout<<"Enter the element you want to search : ";
+    cin>>s;
+	k=LinearSearch(A,n,s);
+	if(k==-1)
+	 cout<<"Element not found.";
+	else
+	 cout<<"Element "<<s<<" found at "<<k+1<<" position.";
+	return 0;
+}
