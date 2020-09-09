@@ -13,3 +13,4 @@ It contains
    g Tower_of_Hanoi
 
 2. Array
+   a. LinearSearch
