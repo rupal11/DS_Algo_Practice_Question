@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int LinearSearch(int *A,int n,int key,int index)
+int Insert(int *A,int n,int key,int index)
 {
     int i;
     if(index>=0 && index<=n)
@@ -31,7 +31,7 @@ int main() {
     cin>>s;
     cout<<"Enter the index where you want to insert the element: ";
     cin>>index;
-	k=LinearSearch(A,n+1,s,index);
+	k=Insert(A,n+1,s,index);
 	if(k==-1)
 	 cout<<"Element not inserted.";
 	else
