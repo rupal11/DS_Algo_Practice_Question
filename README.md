@@ -16,3 +16,4 @@ It contains
    a. Insertion
    b. Deletion
    c. LinearSearch
+   d. Max_min
