@@ -19,3 +19,4 @@ It contains
    d. Improved_LinearSearch
    e. BinarySearch
    f. Max_min
+   g. Sum_Average
