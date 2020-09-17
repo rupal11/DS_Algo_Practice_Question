@@ -20,3 +20,5 @@ It contains
    e. BinarySearch
    f. Max_min
    g. Sum_Average
+   h. Merge
+
