@@ -21,4 +21,5 @@ It contains
    f. Max_min
    g. Sum_Average
    h. Merge
+   i. Union
 
