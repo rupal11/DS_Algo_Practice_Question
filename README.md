@@ -20,6 +20,8 @@ It contains
    e. BinarySearch
    f. Max_min
    g. sum_avg
-   h. Merge
-   i. Union
+   h. Reverse1 using another array
+   i. Reverse2 using same array
+   j. Merge
+   k. Union
 
