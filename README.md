@@ -22,6 +22,7 @@ It contains
    g. sum_avg
    h. Reverse1 using another array
    i. Reverse2 using same array
-   j. Merge
-   k. Union
+   j. Rotate
+   k. Merge
+   l. Union
 
