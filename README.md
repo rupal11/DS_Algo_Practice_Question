@@ -23,6 +23,8 @@ It contains
    h. Reverse1 using another array
    i. Reverse2 using same array
    j. Rotate
-   k. Merge
-   l. Union
+   k. Left shift
+   l. Right shift
+   m. Merge
+   n. Union
 
