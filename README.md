@@ -26,6 +26,6 @@ It contains
    j. Rotate
    k. Left shift
    l. Right shift
-   m. Merge
-   n. Union
+   m. Check is the array is sorted
+   
 
