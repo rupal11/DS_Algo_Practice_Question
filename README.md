@@ -27,5 +27,6 @@ It contains
    k. Left shift
    l. Right shift
    m. Check is the array is sorted
+   n. Insert in an sorted array
    
 
