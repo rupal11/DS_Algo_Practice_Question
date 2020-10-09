@@ -28,5 +28,6 @@ It contains
    l. Right shift
    m. Check is the array is sorted
    n. Insert in an sorted array
+   o. Merge
    
 
