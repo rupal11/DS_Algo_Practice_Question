@@ -30,4 +30,5 @@ It contains
    n. Insert in an sorted array
    o. Merge
    p. Union
+   q. Intersection
 
