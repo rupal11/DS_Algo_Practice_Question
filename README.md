@@ -31,4 +31,5 @@ It contains
    o. Merge
    p. Union
    q. Intersection
+   r. Difference
 
