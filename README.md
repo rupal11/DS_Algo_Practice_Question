@@ -24,12 +24,11 @@ It contains
    h. Reverse1 using another array
    i. Reverse2 using same array
    j. Rotate
-   k. Left shift
-   l. Right shift
-   m. Check is the array is sorted
-   n. Insert in an sorted array
-   o. Merge
-   p. Union
-   q. Intersection
-   r. Difference
+   k. Left Rotate(Anticlockwise)
+   l. Check is the array is sorted
+   m. Insert in an sorted array
+   n. Merge
+   o. Union
+   p. Intersection
+   q. Difference
 
