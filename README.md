@@ -12,7 +12,6 @@ It contains
    f. Combination Formula
    g. Tower_of_Hanoi
    h. No. of ones in binary representaion of n
-
 2. Array
    a. Insertion
    b. Deletion
@@ -31,4 +30,6 @@ It contains
    o. Union
    p. Intersection
    q. Difference
+   
+3. Strings(C-style)
 
