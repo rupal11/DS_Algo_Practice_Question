@@ -26,6 +26,7 @@ It contains
    k. Left Rotate(Anticlockwise)
    l. Check is the array is sorted
    m. Insert in an sorted array
+   n. Rearrange
    n. Merge
    o. Union
    p. Intersection
