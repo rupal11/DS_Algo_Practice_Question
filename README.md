@@ -27,10 +27,10 @@ It contains
    l. Check is the array is sorted
    m. Insert in an sorted array
    n. Rearrange
-   n. Merge
-   o. Union
-   p. Intersection
-   q. Difference
+   o. Merge
+   p. Union
+   q. Intersection
+   r. Difference
    
 3. Strings(C-style)
 
