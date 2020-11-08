@@ -33,4 +33,5 @@ It contains
    r. Difference
    
 3. Strings(C-style)
+   a. Length
 
