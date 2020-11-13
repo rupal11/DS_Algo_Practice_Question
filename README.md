@@ -35,4 +35,5 @@ It contains
 3. Strings(C-style)
    a. Length
    b. Changing case of string
+   c. Count the no. of vowels
 
