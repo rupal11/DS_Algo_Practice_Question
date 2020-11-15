@@ -36,4 +36,5 @@ It contains
    a. Length
    b. Changing case of string
    c. Count the no. of vowels
+   d. Reversing a string
 
