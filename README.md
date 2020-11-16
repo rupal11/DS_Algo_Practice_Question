@@ -37,4 +37,5 @@ It contains
    b. Changing case of string
    c. Count the no. of vowels
    d. Reversing a string
+   e. Checking Palindrome
 
