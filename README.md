@@ -38,4 +38,5 @@ It contains
    c. Count the no. of vowels
    d. Reversing a string
    e. Checking Palindrome
+   f. Finding duplicates in a string
 
