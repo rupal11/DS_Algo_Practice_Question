@@ -39,4 +39,5 @@ It contains
    d. Reversing a string
    e. Checking Palindrome
    f. Finding duplicates in a string
+   g. Checking Anagram
 
