@@ -40,4 +40,5 @@ It contains
    e. Checking Palindrome
    f. Finding duplicates in a string
    g. Checking Anagram
+   h. Permutation of a string
 
