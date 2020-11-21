@@ -12,6 +12,7 @@ It contains
    f. Combination Formula
    g. Tower_of_Hanoi
    h. No. of ones in binary representaion of n
+   
 2. Array
    a. Insertion
    b. Deletion
