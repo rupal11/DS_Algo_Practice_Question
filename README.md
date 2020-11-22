@@ -31,7 +31,7 @@ It contains
    o. Merge
    p. Union
    q. Intersection
-   r. Difference
+   
    
 3. Strings(C-style)
    a. Length
