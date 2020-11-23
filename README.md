@@ -43,5 +43,7 @@ It contains
    g. Checking Anagram
    h. Permutation of a string
    i. Permutation of a string(2nd way)
+   
+4. Matrix
 
 
