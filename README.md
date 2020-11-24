@@ -45,5 +45,6 @@ It contains
    i. Permutation of a string(2nd way)
    
 4. Matrix
+   a. Diagonal Matrix
 
 
