@@ -30,7 +30,6 @@ It contains
    n. Rearrange
    o. Merge
    p. Union
-   q. Intersection
    
    
 3. Strings(C-style)
