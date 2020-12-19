@@ -36,7 +36,7 @@ It contains
    a. Length
    b. Changing case of string
    c. Count the no. of vowels
-   d. Reversing a string
+   d. Reversing a string using another string
    e. Checking Palindrome
    f. Finding duplicates in a string
    g. Checking Anagram
