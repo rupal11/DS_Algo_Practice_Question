@@ -40,6 +40,7 @@ It contains
                   i.  using another string(Reverse 1)
                   ii. using same string(Reverse 2)
    e. Checking Palindrome
+                  i.  using another string(Palindorme 1)
    f. Finding duplicates in a string
    g. Checking Anagram
    h. Permutation of a string
