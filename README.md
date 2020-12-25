@@ -41,6 +41,7 @@ It contains
                   ii. using same string(Reverse 2)
    e. Checking Palindrome
                   i.  using another string(Palindorme 1)
+                   ii. using same string((Palindorme 2)
    f. Finding duplicates in a string
    g. Checking Anagram
    h. Permutation of a string
