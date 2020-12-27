@@ -44,7 +44,7 @@ It contains
                    ii. using same string((Palindorme 2)
    f. Finding duplicates in a string
    g. Checking Anagram
-   h. Permutation of a string
+   
    
 4. Matrix
    a. Diagonal Matrix
