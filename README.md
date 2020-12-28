@@ -28,9 +28,7 @@ It contains
    l. Check is the array is sorted
    m. Insert in an sorted array
    n. Rearrange
-   o. Merge
-   
-   
+  
    
 3. Strings(C-style)
    a. Length
