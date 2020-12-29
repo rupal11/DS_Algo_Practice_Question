@@ -46,5 +46,7 @@ It contains
    
 4. Matrix
    a. Diagonal Matrix
+   
+5. Sorting
 
 
