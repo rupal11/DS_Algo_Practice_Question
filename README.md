@@ -48,5 +48,6 @@ It contains
    a. Diagonal Matrix
    
 5. Sorting
+   a. Bubble Sort
 
 
