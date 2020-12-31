@@ -49,5 +49,6 @@ It contains
    
 5. Sorting
    a. Bubble Sort
+   b. Insertion Sort
 
 
