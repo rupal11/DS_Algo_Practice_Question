@@ -51,4 +51,4 @@ It contains
    a. Bubble Sort
    b. Insertion Sort
    c. Selection Sort
-
+   d. Quick Sort
