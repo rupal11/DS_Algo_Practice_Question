@@ -52,3 +52,4 @@ It contains
    b. Insertion Sort
    c. Selection Sort
    d. Quick Sort
+   e. Merge Sort
