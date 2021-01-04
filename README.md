@@ -53,3 +53,4 @@ It contains
    c. Selection Sort
    d. Quick Sort
    e. Merge Sort
+   f. Count Sort
