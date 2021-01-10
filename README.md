@@ -54,3 +54,4 @@ It contains
    d. Quick Sort
    e. Merge Sort
    f. Count Sort
+   g. Radix Sort
