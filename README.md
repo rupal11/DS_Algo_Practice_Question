@@ -55,3 +55,4 @@ It contains
    e. Merge Sort
    f. Count Sort
    g. Radix Sort
+   h. Tree Sort
