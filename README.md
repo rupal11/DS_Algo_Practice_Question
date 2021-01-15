@@ -56,3 +56,4 @@ It contains
    f. Count Sort
    g. Radix Sort
    h. Tree Sort
+   i. Bin Bucket Sort
