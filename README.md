@@ -54,6 +54,7 @@ It contains
    d. Quick Sort
    e. Merge Sort
    f. Count Sort
+   g. Shell Sort
    g. Radix Sort
    h. Tree Sort
    i. Bin Bucket Sort
