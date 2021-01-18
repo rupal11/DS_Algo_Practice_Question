@@ -46,6 +46,7 @@ It contains
    
 4. Matrix
    a. Diagonal Matrix
+   b. Upper Triangle
    
 5. Sorting
    a. Bubble Sort
