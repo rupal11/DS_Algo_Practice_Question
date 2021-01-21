@@ -48,6 +48,7 @@ It contains
    a. Diagonal Matrix
    b. Upper Triangle
    c. Lower Triangle
+   d. Scalar Matrix
    
 5. Sorting
    a. Bubble Sort
