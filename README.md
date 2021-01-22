@@ -61,3 +61,5 @@ It contains
    g. Radix Sort
    h. Tree Sort
    i. Bin Bucket Sort
+  
+6. Linked List
