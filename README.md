@@ -43,14 +43,9 @@ It contains
    f. Finding duplicates in a string
    g. Checking Anagram
    
+
    
-4. Matrix
-   a. Diagonal Matrix
-   b. Upper Triangle
-   c. Lower Triangle
-   d. Scalar Matrix
-   
-5. Sorting
+4. Sorting
    a. Bubble Sort
    b. Insertion Sort
    c. Selection Sort
