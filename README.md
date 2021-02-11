@@ -58,3 +58,5 @@ It contains
    i. Bin Bucket Sort
   
 6. Linked List
+
+7. Stack
