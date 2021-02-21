@@ -60,3 +60,4 @@ It contains
 6. Linked List
 
 7. Stack
+8. Tree
